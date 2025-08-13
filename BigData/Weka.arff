@@ -1,0 +1,2 @@
+DataSource source = new DataSource("BigData/Weka.arff");
+Instances data = source.getDataSet();

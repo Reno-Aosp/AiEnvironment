@@ -1,0 +1,4 @@
+InputStream dataIs = getClass().getResourceAsStream("/SmollData/Weka.arff");
+if (dataIs == null) throw new FileNotFoundException("Could not find /SmollData/Weka.arff in resources!");
+DataSource source = new DataSource(dataIs);
+Instances data = source.getDataSet();

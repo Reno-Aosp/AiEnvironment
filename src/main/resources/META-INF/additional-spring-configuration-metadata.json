@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "ai.model.enabled",
+  "type": "java.lang.String",
+  "description": "A description for 'ai.model.enabled'"
+}]}
