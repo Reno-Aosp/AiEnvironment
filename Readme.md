@@ -217,6 +217,5 @@ For issues and questions:
 4. Check application logs for detailed error messages
 
 ---
-
-Your AI Environment is ready! Start making predictions and training models through the REST API.
+Start making predictions and training models through the REST API.
 
